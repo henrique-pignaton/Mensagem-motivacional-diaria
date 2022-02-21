@@ -2,7 +2,7 @@ var data = new Date()
 var dia = data.getDate()
 console.log(dia)
 var div = document.getElementById("msg-motivacional")
-//var dia = 1
+var dia = 23
 
 const msg1 = "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa. <i> <strong>Albert Einstein</strong></i>"
 
@@ -36,13 +36,21 @@ const msg15 = 'Achar que o mundo não tem um criador é o mesmo que afirmar que 
 
 const msg16 = 'Difícil não é lutar por aquilo que se quer, e sim desistir daquilo que se mais ama. Eu desisti. Mas não pense que foi por não ter coragem de lutar, e sim por não ter mais condições de sofrer. <i><strong>Bob Marley</strong></i>'
 
-const msg17 = ''
+const msg17 = 'Amo como ama o amor. Não conheço nenhuma outra razão para amar senão amar. Que queres que te diga, além de que te amo, se o que quero dizer-te é que te amo? <i><strong>Fernando Pessoa</strong></i>'
 
-const msg18 = ''
+const msg18 = 'A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos. <i><strong>Desconhecido</strong></i>'
 
-const msg19 = ''
+const msg19 = 'Aprendi que não posso exigir o amor de ninguém...<br>Posso apenas dar boas razões para que gostem de mim... <br>E ter paciência para que a vida faça o resto... <i><strong>Desconhecido</strong></i>'
 
-const msg20 = ''
+const msg20 = 'Com o tempo, você vai percebendo que, para ser feliz com uma outra pessoa, você precisa, em primeiro lugar, não precisar dela.<br>Percebe também que aquele alguém que você ama (ou acha que ama) e que não quer nada com você, definitivamente não é o "alguém" da sua vida.<br>Você aprende a gostar de você, a cuidar de você e, principalmente, a gostar de quem também gosta de você.<br> O segredo é não correr atrás das borboletas... é cuidar do jardim para que elas venham até você.<br> No final das contas, você vai achar não quem você estava procurando, mas quem estava procurando por você! <i><strong>Desconhecido</strong></i>'
+
+const msg21 = 'Amor não é se envolver com a pessoa perfeita, aquela dos nossos sonhos. Não existem príncipes nem princesas. Encare a outra pessoa de forma sincera e real, exaltando suas qualidades, mas sabendo também de seus defeitos. O amor só é lindo, quando encontramos alguém que nos transforme no melhor que podemos ser. <i><strong>Desconhecido</strong></i>'
+
+const msg22 = ''
+
+const msg23 = '<br>O tempo é muito lento para os que esperam <br>Muito rápido para os que têm medo <br>Muito longo para os que lamentam Muito curto para os que festejam Mas, para os que amam, o tempo é eterno. <i><strong>Henry Van Dyke</strong></i>'
+
+const msg24 = ''
 
 if (dia == 1) {
     div.innerHTML = msg1
@@ -75,34 +83,43 @@ if (dia == 10) {
     div.innerHTML = msg10
 }
 if (dia == 11) {
-    div.innerHTML = msg10
+    div.innerHTML = msg11
 }
 if (dia == 12) {
-    div.innerHTML = msg10
+    div.innerHTML = msg12
 }
 if (dia == 13) {
-    div.innerHTML = msg10
+    div.innerHTML = msg13
 }
 if (dia == 14) {
-    div.innerHTML = msg10
+    div.innerHTML = msg14
 }
 if (dia == 15) {
-    div.innerHTML = msg10
+    div.innerHTML = msg15
 }
 if (dia == 16) {
-    div.innerHTML = msg10
+    div.innerHTML = msg16
 }
 if (dia == 17) {
-    div.innerHTML = msg10
+    div.innerHTML = msg17
 }
 if (dia == 18) {
-    div.innerHTML = msg10
+    div.innerHTML = msg18
 }
 if (dia == 19) {
-    div.innerHTML = msg10
+    div.innerHTML = msg19
 }
 if (dia == 20) {
-    div.innerHTML = msg10
+    div.innerHTML = msg20
+}
+if (dia == 21) {
+    div.innerHTML = msg21
+}
+if (dia == 22) {
+    div.innerHTML = msg22
+}
+if (dia == 23) {
+    div.innerHTML = msg23
 }
 
 
