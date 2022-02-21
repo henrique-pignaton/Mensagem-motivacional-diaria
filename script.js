@@ -1,8 +1,7 @@
 var data = new Date()
 var dia = data.getDate()
-console.log(dia)
 var div = document.getElementById("msg-motivacional")
-var dia = 23
+
 
 const msg1 = "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa. <i> <strong>Albert Einstein</strong></i>"
 
@@ -46,11 +45,35 @@ const msg20 = 'Com o tempo, você vai percebendo que, para ser feliz com uma out
 
 const msg21 = 'Amor não é se envolver com a pessoa perfeita, aquela dos nossos sonhos. Não existem príncipes nem princesas. Encare a outra pessoa de forma sincera e real, exaltando suas qualidades, mas sabendo também de seus defeitos. O amor só é lindo, quando encontramos alguém que nos transforme no melhor que podemos ser. <i><strong>Desconhecido</strong></i>'
 
-const msg22 = ''
+const msg22 = 'Cada pessoa que passa em nossa vida, passa sozinha, é porque cada pessoa é única e nenhuma substitui a outra! Cada pessoa que passa em nossa vida passa sozinha e não nos deixa só porque deixa um pouco de si e leva um pouquinho de nós. Essa é a mais bela responsabilidade da vida e a prova de que as pessoas não se encontram por acaso. <i><strong>Desconhecido</strong></i>'
 
-const msg23 = '<br>O tempo é muito lento para os que esperam <br>Muito rápido para os que têm medo <br>Muito longo para os que lamentam Muito curto para os que festejam Mas, para os que amam, o tempo é eterno. <i><strong>Henry Van Dyke</strong></i>'
+const msg23 = '<br>O tempo é muito lento para os que esperam <br> Muito rápido para os que têm medo <br> Muito longo para os que lamentam Muito curto para os que festejam Mas, para os que amam, o tempo é eterno. <i><strong>Henry Van Dyke</strong></i>'
 
-const msg24 = ''
+const msg24 = 'A maior covardia de um homem é despertar o amor de uma mulher sem ter a intenção de amá-la. <i><strong>Augusto Branco</strong></i>'
+
+const msg25= 'Sim, minha força está na solidão. Não tenho medo nem de chuvas tempestivas nem das grandes ventanias soltas, pois eu também sou o escuro da noite <i><strong>Clarice Lispector</strong></i>'
+
+const msg26 = 'Só existem dois dias no ano que nada pode ser feito. Um se chama ontem e o outro se chama amanhã, portanto hoje é o dia certo para amar, acreditar, fazer e principalmente viver.    <i><strong>Dalai Lama</strong></i>'
+
+const msg27= 'Deus, para a felicidade do homem, inventou a fé e o amor. O Diabo, invejoso, fez o homem confundir fé com religião e amor com casamento. <i><strong>Machado de Assis</strong></i>'
+
+const msg28 = 'Se tu me amas, ama-me baixinho <br>Não o grites de cima dos telhados <br>Deixa em paz os passarinhos <br>Deixa em paz a mim! <br>Se me queres, <br>enfim, <br>tem de ser bem devagarinho, Amada, <br>que a vida é breve, e o amor mais breve ainda... <i><strong>Mario Quintana</strong></i>'
+
+const msg29 = ''
+
+const msg30 = ''
+
+const msg31 = ''
+
+
+
+
+
+
+
+
+
+
 
 if (dia == 1) {
     div.innerHTML = msg1
@@ -118,8 +141,10 @@ if (dia == 21) {
 if (dia == 22) {
     div.innerHTML = msg22
 }
-if (dia == 23) {
-    div.innerHTML = msg23
+if (dia == 28) {
+    div.innerHTML = msg28
 }
 
 
+
+console.log(dia)
