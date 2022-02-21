@@ -28,7 +28,9 @@ const msg11 = 'Muitas das falhas da vida ocorrem quando não percebemos o quão 
 
 const msg12 = 'Sempre se lembre de que você tem mais fibra que acredita, é mais forte que parece e mais esperto do que você pensa que é. <i><strong> Robin Milne</strong></i>'
 
-const msg13 = ''
+const msg13 = 'Não importa qual a profissão que você escolheu, se queres ser bem sucedido faça o que gosta, se você fizer o que gosta, irá fazer com excelência e quem executa o seu trabalho com excelência o sucesso é inevitável. <i><strong> Victor Prates</strong></i>'
+
+const msg14 = 'O mundo é grande e cabe nesta janela sobre o mar. O mar é grande e cabe na cama e no colchão de amar. O amor é grande e cabe no breve espaço de beijar. <i><strong>Carlos Drummond de Andrade</strong></i>'
 
 
 if (dia == 1) {
