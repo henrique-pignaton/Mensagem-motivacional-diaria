@@ -4,9 +4,9 @@ const div = document.getElementById("msg-motivacional")
 const mes = data.getMonth()+1
 
 //Frases
-const msg1 = "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa. <i> <strong>Albert Einstein</strong></i>"
+const msg1 = "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa. <br><i><strong>-Albert Einstein</strong></i>"
 
-const msg2 = "Nas grandes batalhas da vida, o primeiro passo para a vitória é o desejo de vencer.<i> <strong>Gandhi</strong></i>"
+const msg2 = "Nas grandes batalhas da vida, o primeiro passo para a vitória é o desejo de vencer.<br><i><strong>-Gandhi</strong></i>"
 
 const msg3 = "Quando era jovem, descobri que nove de cada dez coisas que eu fazia eram um fracasso. Eu não queria ser um fracasso. Então, passei a trabalhar dez vezes mais. <br><i><strong>- George Bernard Shaw</strong></i>"
 
