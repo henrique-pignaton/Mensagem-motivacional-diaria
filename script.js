@@ -32,6 +32,17 @@ const msg13 = 'Não importa qual a profissão que você escolheu, se queres ser 
 
 const msg14 = 'O mundo é grande e cabe nesta janela sobre o mar. O mar é grande e cabe na cama e no colchão de amar. O amor é grande e cabe no breve espaço de beijar. <i><strong>Carlos Drummond de Andrade</strong></i>'
 
+const msg15 = 'Achar que o mundo não tem um criador é o mesmo que afirmar que um dicionário é o resultado de uma explosão numa tipografia. <i><strong>Benjamin Franklin</strong></i>'
+
+const msg16 = 'Difícil não é lutar por aquilo que se quer, e sim desistir daquilo que se mais ama. Eu desisti. Mas não pense que foi por não ter coragem de lutar, e sim por não ter mais condições de sofrer. <i><strong>Bob Marley</strong></i>'
+
+const msg17 = ''
+
+const msg18 = ''
+
+const msg19 = ''
+
+const msg20 = ''
 
 if (dia == 1) {
     div.innerHTML = msg1
@@ -63,4 +74,35 @@ if (dia == 9) {
 if (dia == 10) {
     div.innerHTML = msg10
 }
+if (dia == 11) {
+    div.innerHTML = msg10
+}
+if (dia == 12) {
+    div.innerHTML = msg10
+}
+if (dia == 13) {
+    div.innerHTML = msg10
+}
+if (dia == 14) {
+    div.innerHTML = msg10
+}
+if (dia == 15) {
+    div.innerHTML = msg10
+}
+if (dia == 16) {
+    div.innerHTML = msg10
+}
+if (dia == 17) {
+    div.innerHTML = msg10
+}
+if (dia == 18) {
+    div.innerHTML = msg10
+}
+if (dia == 19) {
+    div.innerHTML = msg10
+}
+if (dia == 20) {
+    div.innerHTML = msg10
+}
+
 
