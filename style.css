@@ -1,22 +1,25 @@
-.container{
-    height: 400px;
-    width: 400px;
+.container {
+    height: 500px;
+    width: 500px;
+    
 }
-#titulo{
+
+#titulo {
     align-items: center;
     text-align: center;
     margin-top: 100px;
 }
 
-#boxmsg{
-    width: 50%;
+#boxmsg {
+    width: 85%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
 
 }
-.msg-motivacional{
-    text-align: center;
+
+.msg-motivacional {
+    text-align: justify;
     font-style: italic;
 
 }
