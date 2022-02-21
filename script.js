@@ -2,7 +2,7 @@ var data = new Date()
 var dia = data.getDate()
 console.log(dia)
 var div = document.getElementById("msg-motivacional")
-var dia = 1
+//var dia = 1
 
 const msg1 = "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa. <i> <strong>Albert Einstein</strong></i>"
 
@@ -20,7 +20,15 @@ const msg7 = "A felicidade é uma borboleta que, sempre que perseguida, parecer�
 
 const msg8 = " Comece de onde você está. Use o que você tiver. Faça o que você puder. <i><strong>Arthur Ashe</strong></i>"
 
-const msg9 = 'Pessoas de sucesso fazem o que pessoas malsucedidas não querem fazer. Não queira que a vida seja mais fácil. Deseje que você seja ainda melhor. <i><strong>Jim Rohn<w/strong></i>'
+const msg9 = 'Pessoas de sucesso fazem o que pessoas malsucedidas não querem fazer. Não queira que a vida seja mais fácil. Deseje que você seja ainda melhor. <i><strong>Jim Rohn</strong></i>'
+
+const msg10 = 'Em nossas vidas, a mudança é inevitável. A perda é inevitável. A felicidade reside na nossa adaptabilidade em sobreviver a tudo de ruim. <i><strong>Buda</strong></i>'
+
+const msg11 = 'Muitas das falhas da vida ocorrem quando não percebemos o quão próximos estávamos do sucesso na hora em que desistimos. <i><strong>Thomas Edison</strong></i>'
+
+const msg12 = 'Sempre se lembre de que você tem mais fibra que acredita, é mais forte que parece e mais esperto do que você pensa que é. <i><strong> Robin Milne</strong></i>'
+
+const msg13 = ''
 
 
 if (dia == 1) {
@@ -45,12 +53,12 @@ if (dia == 7) {
     div.innerHTML = msg7
 }
 if (dia == 8) {
-    div.innerHTML = 'Teste dia 21'
+    div.innerHTML = msg8
 }
 if (dia == 9) {
-    div.innerHTML = 'Teste dia 21'
+    div.innerHTML = msg9
 }
 if (dia == 10) {
-    div.innerHTML = 'Teste dia 21'
+    div.innerHTML = msg10
 }
 
