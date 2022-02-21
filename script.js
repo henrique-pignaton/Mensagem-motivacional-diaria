@@ -2,6 +2,8 @@ const data = new Date()
 const dia = data.getDate()
 const div = document.getElementById("msg-motivacional")
 const mes = data.getMonth()+1
+
+
 //Frases
 const msg1 = "Eu tentei 99 vezes e falhei, mas na centésima tentativa eu consegui, nunca desista de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser a vitoriosa. <i> <strong>Albert Einstein</strong></i>"
 
