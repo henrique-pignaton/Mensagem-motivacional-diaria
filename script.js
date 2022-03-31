@@ -32,7 +32,7 @@ const msg27='Deus, para a felicidade do homem, inventou a fé e o amor. O Diabo,
 const msg28='Se tu me amas, ama-me baixinho <br>Não o grites de cima dos telhados <br>Deixa em paz os passarinhos <br>Deixa em paz a mim! <br>Se me queres, <br>enfim, <br>tem de ser bem devagarinho, Amada, <br>que a vida é breve, e o amor mais breve ainda... <br><i><strong>- Mario Quintana</strong></i>'
 const msg29='Saudade é um pouco como fome. Só passa quando se come a presença. Mas às vezes a saudade é tão profunda que a presença é pouco: quer-se absorver a outra pessoa toda. Essa vontade de um ser o outro para uma unificação inteira é um dos sentimentos mais urgentes que se tem na vida.<br><i><strong>- Clarice Lisnpector</strong></i>'
 const msg30='Faça o que for necessário para ser feliz. Mas não se esqueça que a felicidade é um sentimento simples, você pode encontrá-la e deixá-la ir embora por não perceber sua simplicidade. <br><i><strong>- Martha Medeiros</strong></i>'
-const msg31='O mundo é grande e cabe nesta janela sobre o mar. O mar é grande e cabe na cama e no colchão de amar. O amor é grande e cabe no breve espaço de beijar. <br><i><strong>- Carlos Drummond de Andrade</strong></i>'
+const msg31='<img src="./77B38E74-EE06-4EB2-8A63-9031E494337C.jpeg" alt="">'
 if(dia==1){div.innerHTML=msg1}
 if(dia==2){div.innerHTML=msg2}
 if(dia==3){div.innerHTML=msg3}
